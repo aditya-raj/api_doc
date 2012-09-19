@@ -39,9 +39,6 @@ GET https://api.votizen.com/v1/race/1/?format=json&api_key=:api_key
             "nickname": "",
             "demonym": "American",
             "website_url": "http://www.usa.gov/",
-            "races": [
-                "/v1/race/1/"
-            ]
         },
         "office": {
             "id": "1",
@@ -54,9 +51,6 @@ GET https://api.votizen.com/v1/race/1/?format=json&api_key=:api_key
             "executive_rank": "Primary",
             "branch": "Executive",
             "website_url": "http://www.whitehouse.gov/",
-            "races": [
-                "/v1/race/1/"
-            ]
         },
         "election_date": "2012-11-06",
         "candidates": [
@@ -69,9 +63,7 @@ GET https://api.votizen.com/v1/race/1/?format=json&api_key=:api_key
                 "party": "Libertarian",
                 "nickname": "",
                 "website": "http://www.garyjohnson2012.com/",
-                "race": [
-                    "/v1/race/1/"
-                ]
+
             },
             {
                 "id": "322",
@@ -82,9 +74,6 @@ GET https://api.votizen.com/v1/race/1/?format=json&api_key=:api_key
                 "party": "Green",
                 "nickname": "",
                 "website": "http://www.jillstein.org/",
-                "race": [
-                    "/v1/race/1/"
-                ]
             },
             {
                 "id": "324",
@@ -95,9 +84,6 @@ GET https://api.votizen.com/v1/race/1/?format=json&api_key=:api_key
                 "party": "Other",
                 "nickname": "Jerry",
                 "website": "http://socialequality.com/",
-                "race": [
-                    "/v1/race/1/"
-                ]
             },
             {
                 "id": "320",
@@ -108,9 +94,6 @@ GET https://api.votizen.com/v1/race/1/?format=json&api_key=:api_key
                 "party": "Other",
                 "nickname": "Rocky",
                 "website": "http://www.voterocky.org/",
-                "race": [
-                    "/v1/race/1/"
-                ]
             },
             {
                 "id": "1",
@@ -121,9 +104,6 @@ GET https://api.votizen.com/v1/race/1/?format=json&api_key=:api_key
                 "party": "Democratic",
                 "nickname": "Barack",
                 "website": "http://www.barackobama.com/",
-                "race": [
-                    "/v1/race/1/"
-                ]
             },
             {
                 "id": "2",
@@ -134,9 +114,6 @@ GET https://api.votizen.com/v1/race/1/?format=json&api_key=:api_key
                 "party": "Republican",
                 "nickname": "Mitt",
                 "website": "http://www.mittromney.com/",
-                "race": [
-                    "/v1/race/1/"
-                ]
             }
         ]
     }
