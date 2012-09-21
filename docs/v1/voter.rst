@@ -44,6 +44,10 @@ https://api.votizen.com/v1/voter/schema/?format=json&api_key=:api_key
 List
 ====
 
+The list endpoint returns the single voter that best matches the given
+parameters. If our confidence in the match is not high enough or if several
+voters match equally well, we return an empty ``objects`` array.
+
 Resource URL
 ------------
 
