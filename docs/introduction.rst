@@ -30,6 +30,9 @@ Access to the APIs is controlled with the use of API keys.  Your
 Votizen-assigned API key will be provided in each of your requests via the
 api_key parameter.
 
+You can obtain an API key by emailing your full name, organization name, and a
+short description of your project to developer@votizen.com.
+
 Rate Limiting
 -------------
 
@@ -153,3 +156,12 @@ Resource Descriptions
 =====================
 
 The :doc:`apis` page has information on the available APIs and resources.
+
+
+Questions?
+==========
+
+http://groups.google.come/group/votizen-api (votizen-api@googlegroups.com) is a public discussion list for developers using 
+the Votizen APIs. 
+
+You can also reach the Votizen team directly at developer@votizen.com.
