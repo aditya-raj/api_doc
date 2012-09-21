@@ -161,7 +161,7 @@ The :doc:`apis` page has information on the available APIs and resources.
 Questions?
 ==========
 
-http://groups.google.come/group/votizen-api (votizen-api@googlegroups.com) is a public discussion list for developers using 
-the Votizen APIs. 
+http://groups.google.com/group/votizen-api (votizen-api@googlegroups.com) is a 
+public discussion list for developers using the Votizen APIs. 
 
 You can also reach the Votizen team directly at developer@votizen.com.
