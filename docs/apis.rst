@@ -1,9 +1,6 @@
-====
-APIs
-====
-
-v1
-==
+=============
+API Reference
+=============
 
 ==========================   =================================================
 Resource                     Description
@@ -20,4 +17,3 @@ Resource                     Description
 :doc:`/v1/voter_record`      A representation of a voter's party affiliation
                              and voting record for a set of elections.
 ==========================   =================================================
-
