@@ -20,7 +20,7 @@ of the following ways to continue using the Votizen API:
     - Modify the application such that the number of requests made in an hour
       is below the usage limit.
     - Contact the Votizen API Business Sales team at developer@votizen.com for
-      more information how to purchase additional quota.
+      more information on how to purchase additional quota.
 
 Multiple violations of attempting to access the Votizen API while over the rate
 limit will result in a suspension of the API key. A courtesy notice will be
@@ -47,5 +47,5 @@ in the body of the e-mail:
       API.
 
 Attempts to register a new API key while a suspension is in place is a
-violation of our API Terms of Service and may result in a permanent suspension
+violation of the API Terms of Service and may result in a permanent suspension
 on all associated developer accounts.

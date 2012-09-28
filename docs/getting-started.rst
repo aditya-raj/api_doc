@@ -36,7 +36,7 @@ instructions along with a newly minted API key.
 Don't forget to join the `Votizen API Developer Group`_ to ask questions and
 share feedback about the Votizen API. Feedback and involvement from each and
 every developer is paramount for building an elegant, timeless API that
-everybody in developer community can benefit from.
+everybody in developer community can benefit from!
 
 .. _Votizen API Developer Group: http://groups.google.com/group/votizen-api
 
@@ -55,10 +55,15 @@ request via the ``api_key`` parameter::
     https://api.votizen.com/v1/voter/?format=json&api_key=:api_key&first_name=Alaska&last_name=Voter
 
 
-SSL Access
-==========
+HTTPS Access
+============
 
-The Votizen API is only available over HTTPS.
+The Votizen API is only available over HTTPS. Communicating over TLS/SSL
+prevents the theft of API keys and also preserves voter privacy by protecting
+`personally identifiable information (PII)`_ which are frequently contained in
+the requests made to the Votizen API.
+
+.. _personally identifiable information (PII): http://en.wikipedia.org/wiki/Personally_identifiable_information
 
 
 Supported Response Formats

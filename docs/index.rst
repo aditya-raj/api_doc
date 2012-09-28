@@ -39,7 +39,7 @@ The Votizen API boasts a number of unique features, including:
           only takes milliseconds to identify a voter.
 
         - Voters may also be identified from nothing but their online
-          identities such as Facebook and Twitter profiles. *This feature is
+          identities such as their Facebook or Twitter usernames. *This feature is
           currently planned for future release.*
 
 
