@@ -12,6 +12,8 @@ nouns of the political process, such as :doc:`candidates </v1/candidate>`,
     prohibited by law.
 
 
+.. _obtaining-an-api-key:
+
 Obtaining an API Key
 ====================
 
