@@ -16,4 +16,5 @@ Resource                     Description
 :doc:`/v1/voter`             A representation of a voter.
 :doc:`/v1/voter_record`      A representation of a voter's party affiliation
                              and voting record for a set of elections.
+:doc:`/v1/voter_districts`   A list of a the voter's districts.
 ==========================   =================================================
