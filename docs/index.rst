@@ -5,8 +5,6 @@ The Votizen API
    :maxdepth: 2
 
    getting-started
-   concepts
-   limits
    apis
    faq
 
